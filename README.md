@@ -1,7 +1,7 @@
 # HVNC -STEALER    
 This HVNC Client and Server is based off of the Tinynuke botnet's HVNC (C++). 
 I do **NOT** encourage malicious use of this code. This was made for educational purposes only .  
- It's very dangerous handle it carefully          
+ It's very dangerous handle it carefully           
 
  Telegram: (https://t.me/hidden9090)
        
